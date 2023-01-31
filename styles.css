@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+img {
+    border-radius: 3rem;
+    width: 23.4375rem;
+    position: relative;
+
+}
+
+.center {
+    text-align: center;
+}
+.code {
+    border-radius: 1rem;
+    background-color: hsl(0, 0%, 100%);
+    margin:auto;    
+    width: 23.4375rem;
+    position: relative;
+    top: 4.875rem;
+    padding: 1rem;
+    background-color: white;
+}
+.outer {
+    margin: 3.125rem auto;
+    background-color: #89C4E1;
+    position: relative;
+    height: 46.875rem;
+    width: 90rem;
+}
